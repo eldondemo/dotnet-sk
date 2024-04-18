@@ -1,0 +1,7 @@
+{
+  "type": "azure",
+  "model": "gpt-35-turbo-16k",
+  "endpoint": "https://openai-eastus-edg.openai.azure.com/",
+  "apikey": "631e99ed216e4bb1831034b62fc9c1ab",
+  "org": ""
+}
