@@ -490,3 +490,9 @@ swa-cli.config.json
 
 # python devcontainer
 /python/.devcontainer/*
+
+
+# Ignore Azure ML specific files and temporary files
+*.amltmp
+.amlignore
+notebooks/.ipynb_aml_checkpoints/
