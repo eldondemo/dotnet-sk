@@ -6,7 +6,7 @@ the Semantic Kernel. The notebooks are organized in order of increasing complexi
 To  run the notebook in Azure Machine Learning
 - [Install .Net 8](https://learn.microsoft.com/en-us/dotnet/core/install/linux-ubuntu-install?pivots=os-linux-ubuntu-2004&tabs=dotnet8#ubuntu-2004)
 - dotnet tool install -g Microsoft.dotnet-interactive 
-- Install Jupyter Kernel for dotnet by running this commamd: dotnet interactive jupyter install
+- dotnet interactive jupyter install
 - jupyter kernelspec list
 - Update the Environment Path
   - sudo nano /etc/environment
